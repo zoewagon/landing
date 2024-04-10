@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Concert+One&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+ body {
+	  font-family: 'Concert One ', sans-serif;
+	  font-weight: 400;
+	  font-style: normal;
+	  margin: 0px; 
+}
+
+
+h1,h2,h3 {
+  font-family: 'Abril Fatface', serif;
+  font-weight: 400;
+  font-style: normal;
+}
+a { 
+	text-decoration: none;
+	font-size: 16px;
+ }
